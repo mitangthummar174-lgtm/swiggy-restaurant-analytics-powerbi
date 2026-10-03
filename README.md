@@ -45,7 +45,7 @@ A Reset Filter option is also included to make dashboard exploration easier.
 
 ## 📷 Dashboard Preview
 
-![Swiggy Restaurant Analytics Dashboard](images/dashboard.png)
+https://github.com/mitangthummar174-lgtm/swiggy-restaurant-analytics-powerbi/blob/main/swiggy%20dashboard.pbix
 
 ## 🎯 Project Objective
 
