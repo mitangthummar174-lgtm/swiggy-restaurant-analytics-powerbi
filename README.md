@@ -53,8 +53,8 @@ The objective of this project was to transform restaurant data into an interacti
 
 ## 📁 Project Files
 
-- `Swiggy_Dashboard.pbix` — Power BI dashboard file
-- `images/dashboard.png` — Dashboard preview
+- https://github.com/mitangthummar174-lgtm/swiggy-restaurant-analytics-powerbi/blob/main/swiggy%20dashboard.pbix — Power BI dashboard file
+- https://github.com/mitangthummar174-lgtm/swiggy-restaurant-analytics-powerbi/tree/main/ss — Dashboard preview
 
 ## 👨‍💻 Author
 
